@@ -11,6 +11,7 @@ import java.util.List;
  * @create$2025-01 16-下午7:40
  */
 public final class JdbcUtil {
+    //这是注释
     public static final String DRIVER="com.mysql.cj.jdbc.Driver";
     public static final String URL="jdbc:mysql://localhost:3306/blog?useSSL=false&characterEncoding=utf8&timeZone=UTC";
     public static final String USER="root";
