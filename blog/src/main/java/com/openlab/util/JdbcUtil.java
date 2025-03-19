@@ -12,6 +12,7 @@ import java.util.List;
  */
 public final class JdbcUtil {
     //这是注释
+    //hot-fix到此
     public static final String DRIVER="com.mysql.cj.jdbc.Driver";
     public static final String URL="jdbc:mysql://localhost:3306/blog?useSSL=false&characterEncoding=utf8&timeZone=UTC";
     public static final String USER="root";
