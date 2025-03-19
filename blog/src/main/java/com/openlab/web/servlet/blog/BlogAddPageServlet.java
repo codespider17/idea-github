@@ -35,5 +35,6 @@ public class BlogAddPageServlet extends HttpServlet {
         doGet(req, resp);
         System.out.println("我去");
         System.out.println("hot-fix");
+        System.out.println("push-test");
     }
 }
