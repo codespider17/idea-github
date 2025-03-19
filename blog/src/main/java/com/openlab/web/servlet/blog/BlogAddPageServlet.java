@@ -34,5 +34,6 @@ public class BlogAddPageServlet extends HttpServlet {
     protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
         doGet(req, resp);
         System.out.println("我去");
+        System.out.println("hot-fix");
     }
 }
